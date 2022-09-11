@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Fandango Online Reviews](/sample_page)
+[Fandango Online Reviews](https://github.com/seifsami/Fandango-Recreation/blob/main/FandangoDataAnalysisProject.ipynb)
 <img src="images/Fandango_Recreation_Project.png?raw=true"/>
 
 ---
