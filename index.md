@@ -8,11 +8,11 @@
 <img src="images/Fandango_Recreation_Project.png?raw=true"/>
 
 ---
-[Toronto Bike Share](/pdf/sample_presentation.pdf)
+[Toronto Bike Share](https://public.tableau.com/views/AnalysisofTorontoBikeshareInfo/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Toronto_Bikeshare_Dashboard.png?raw=true"/>
 
 ---
-[Sales Project](http://example.com/)
+[Sales Project](https://public.tableau.com/views/FirstTableau_16626178681970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Sales_Project_Dashboard.png?raw=true"/>
 
 ---
