@@ -13,7 +13,7 @@
 
 ---
 [Sales Project](http://example.com/)
-<img src="images/Sales_Project_Dashboard.png?raw=true"/>
+<img src="https://public.tableau.com/views/FirstTableau_16626178681970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"/>
 
 ---
 
