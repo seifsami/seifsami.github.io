@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fandango Online Reviews](/sample_page)
+<img src="images/Fandango_Recreation_Project.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Toronto Bike Share](/pdf/sample_presentation.pdf)
+<img src="images/Toronto_Bikeshare_Dashboard.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sales Project](http://example.com/)
+<img src="images/Sales_Project_Dashboard.png?raw=true"/>
 
 ---
 
