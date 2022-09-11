@@ -9,7 +9,7 @@
 
 ---
 [Toronto Bike Share](/pdf/sample_presentation.pdf)
-<img src="images/Toronto_Bikeshare_Dashboard.png?raw=true"/>
+<<iframe seamless frameborder="0" src="https://public.tableau.com/views/AnalysisofTorontoBikeshareInfo/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe> />
 
 ---
 [Sales Project](http://example.com/)
