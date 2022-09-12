@@ -4,7 +4,7 @@
 
 ### Highlight Projects
 
-[Fandango Online Reviews](https://github.com/seifsami/Fandango-Recreation/blob/main/FandangoDataAnalysisProject.ipynb)
+[Fandango Online Reviews](https://github.com/seifsami/Fandango-Recreation)
 <img src="images/Fandango_Recreation_Project.png?raw=true"/>
 
 ---
