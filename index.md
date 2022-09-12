@@ -14,7 +14,7 @@
 
 
 ---
-[Sales Project](https://public.tableau.com/views/FirstTableau_16626178681970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Retail Sales Analysis](https://github.com/seifsami/Retail-Sales-Analysis)
 <img src="images/Sales_Project_Dashboard.png?raw=true"/>
 
 
@@ -22,9 +22,9 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Fandango Online Reviews](https://github.com/seifsami/Fandango-Recreation)
+- [Toronto Bike Share](https://github.com/seifsami/Toronto-Bike-Share-Analysis)
+- [Retail Sales Analysis](https://github.com/seifsami/Retail-Sales-Analysis)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
