@@ -9,12 +9,9 @@
 
 ---
 [Toronto Bike Share](https://github.com/seifsami/Toronto-Bike-Share-Analysis)
+<img src="images/Toronto_Bikeshare_Dashboard.png?raw=true"/>
 
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-<tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/views/AnalysisofTorontoBikeshareInfo/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link'      
-  height='471px' width='232px' toolbar='bottom' hide-tabs>
-</tableau-viz>
+
 
 ---
 [Sales Project](https://public.tableau.com/views/FirstTableau_16626178681970/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
