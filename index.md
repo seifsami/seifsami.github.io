@@ -20,18 +20,11 @@
 
 ---
 
-### Category Name 2
-
-- [Fandango Online Reviews](https://github.com/seifsami/Fandango-Recreation)
-- [Toronto Bike Share](https://github.com/seifsami/Toronto-Bike-Share-Analysis)
-- [Retail Sales Analysis](https://github.com/seifsami/Retail-Sales-Analysis)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
 
 
 
----
+
 
